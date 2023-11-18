@@ -1,6 +1,6 @@
 
 <div align=center>
-  <h1 align="center">Hi 👋, I'm Saeed Ba Hakim</h1>
+  <h1 align="center">Hi 👋, I'm Saeed </h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&random=false&width=500&separator=%3C&lines=Java+Enthusiast%3CBack-End+Developer%3CWhile(!dead)+%7Blearn.newThings();%7D" alt="Headline" />
 </div>
 
